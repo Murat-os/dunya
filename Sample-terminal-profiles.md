@@ -42,3 +42,13 @@ Windows Terminal:
       "icon": ""
 }
 ```
+Fluent Terminal:
+```
+{
+      "id": 5,
+      "name": "Fluent Terminal",
+      "path": "flute.exe",
+      "arguments": "new \"{0\}",
+      "icon": ""
+}
+```
