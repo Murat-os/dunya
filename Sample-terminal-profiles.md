@@ -48,7 +48,7 @@ Fluent Terminal:
       "id": 5,
       "name": "Fluent Terminal",
       "path": "flute.exe",
-      "arguments": "new \"{0}\",
+      "arguments": "new \"{0}\"",
       "icon": ""
 }
 ```
