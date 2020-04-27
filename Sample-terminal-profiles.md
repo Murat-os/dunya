@@ -1,6 +1,6 @@
 **The profile with the id set to `1` will be the default terminal.**
 
-_The PowerShell 6 and the Windows Terminal profile will only function, if the corresponding terminals are installed._
+_The profiles will only function, if the corresponding terminals are installed._
 
 cmd:
 ```
