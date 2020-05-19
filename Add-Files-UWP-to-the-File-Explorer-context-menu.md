@@ -3,7 +3,7 @@ In order to add an option to launch Files UWP to the File Explorer right-click c
 To get started, create a blank file called `filesuwphere.inf`. Next copy and paste the code below into the file. Once you did that, save the file and then from Files Explorer, right-click on `filesuwphere.inf` and click install.
 
 ```
-; "Windows Terminal" PowerToy
+; "Files UWP" PowerToy
 
 [version]
 signature="$CHICAGO$"
