@@ -5,7 +5,6 @@ _The profiles will only function, if the corresponding terminals are installed._
 cmd:
 ```
 {
-      "id": 1,
       "name": "CMD",
       "path": "cmd.exe",
       "arguments": "/k \"cd /d {0} && title Command Prompt\"",
@@ -15,7 +14,6 @@ cmd:
 Powershell:
 ```
 {
-      "id": 2,
       "name": "PowerShell",
       "path": "powershell.exe",
       "arguments": "-noexit -command \"cd '{0}'\"",
@@ -25,7 +23,6 @@ Powershell:
 Powershell Core:
 ```
 {
-      "id": 3,
       "name": "PowerShell Core 6",
       "path": "pwsh.exe",
       "arguments": "-WorkingDirectory \"{0}\"",
@@ -35,7 +32,6 @@ Powershell Core:
 Windows Terminal:
 ```
 {
-      "id": 4,
       "name": "Windows Terminal",
       "path": "wt.exe",
       "arguments": "-d \"{0}\"",
@@ -45,7 +41,6 @@ Windows Terminal:
 Fluent Terminal:
 ```
 {
-      "id": 5,
       "name": "Fluent Terminal",
       "path": "flute.exe",
       "arguments": "new \"{0}\"",
