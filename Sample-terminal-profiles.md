@@ -38,6 +38,15 @@ Windows Terminal:
       "icon": ""
 }
 ```
+Windows Terminal Preview:
+```
+{
+      "name": "Windows Terminal Preview",
+      "path": "wtd.exe",
+      "arguments": "-d \"{0}\"",
+      "icon": ""
+}
+```
 Fluent Terminal:
 ```
 {
